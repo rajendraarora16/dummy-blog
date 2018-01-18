@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
-baseurl: "/juliarainbowx.github.io-blog"
-url: "https://juliarainbowx.github.io/juliarainbowx.github.io-blog/"
+baseurl: "/dummy-blog"
+url: "https://rajendraarora16.github.io/dummy-blog/"
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
@@ -21,16 +21,16 @@ theme_settings:
 
   # Icons
   rss: false
-  email_address: "jukostyuchenko@gmail.com"
+  email_address: "contact.rajendraarora@gmail.com"
   behance:
   bitbucket:
   dribbble:
-  facebook: "juliarainbowx"
+  facebook: "rajendraarora16"
   flickr:
   gitlab:
-  github: "juliarainbowx"
+  github: "rajendraarora16"
   google_plus:
-  instagram: "juliarainbowx"
+  instagram: "rajendraarora16"
   linkedin:  # Full URL
   pinterest:
   reddit:
@@ -38,7 +38,7 @@ theme_settings:
   stack_exchange:  # Full URL
   steam:
   tumblr:
-  twitter: "juliarainbowx"
+  twitter: "rajendraarora16"
   wordpress:
   youtube:
 
